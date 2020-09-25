@@ -3,7 +3,7 @@
 
 ## Overview of Project
 
-This analysis was undertaken to illustrate the relationship between the success or failure of a Kickstarter campaign in relation to the date at which the campaign was launched and then to the fundraising goal set at its inception. Kickstarter campaigns in the broad category of theater and then specifically in the subcategory of plays were examined to provide the client, Louise, insight applicapble to the nearly funded Kickstarter campaign for her play "Fever". 
+This analysis was undertaken to illustrate the relationship between the success or failure of a Kickstarter campaign in relation to the date at which the campaign was launched and then to the fundraising goal set at its inception. Kickstarter campaigns in the broad category of theater and then specifically in the subcategory of plays were examined to provide the client, Louise, insight applicable to the nearly funded Kickstarter campaign for her play "Fever". 
 
 ## Analysis and Challenges
 
