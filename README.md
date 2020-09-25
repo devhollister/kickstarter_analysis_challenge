@@ -17,7 +17,7 @@ The figure shows that there were more successful theater campaigns launched in M
 
 ### Analysis of Outcomes Based on Goals
 
-Further analysis was performed on a subset of 1,053 plays within the theater category to illustrate the success rates of play campaigns in relation to their fundraising goal. The figure below shows the percent successful and percent failed of plays broken down into 12 fundraising goal brackets, beginning with campaigns with less than $1,000 goals and then increasing by $5,000 in each subsequent bracket until the final bracket, which contains all goal amounts above $50,000. 
+Further analysis was performed on a subset of 1,053 plays within the theater category to illustrate the success rates of play campaigns in relation to their fundraising goal. The figure below shows the percentage successful and percentage failed for play campaigns broken down into 12 fundraising goal brackets, beginning with campaigns with less than $1,000 goals and then increasing by $5,000 in each subsequent bracket until the final bracket, which contains all goal amounts above $50,000. 
 
 ![Outcomes vs Goals](Resources/Outcomes_vs_Goals.png)
 
