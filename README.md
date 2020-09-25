@@ -21,7 +21,7 @@ Further analysis was performed on a subset of 1,053 plays within the theater cat
 
 ![Outcomes vs Goals](Resources/Outcomes_vs_Goals.png)
 
-As shown in the figure, the success rate is highest for play campaigns with small goals, with campaigns with goals of less than $1,000 being successful 75.8 percent of the time. Success rate gradually drops as the goal amount increases, plateauing briefly at 50% for campaigns with goals bewteen $10,000 and $19,999, before dropping 50% at the $20,000-$24,999 bracket. There is a brief spike in success rates for campaigns with goals between $35,000 and $44,999 (66.7% success rate) before dropping once again. There were no play campaigns canceled within the dataset. 
+As shown in the figure, the success rate is highest for play campaigns with small goals, with campaigns with goals of less than $1,000 being successful 75.8% of the time. Success rate gradually drops as the goal amount increases, plateauing briefly at 50.0% for campaigns with goals bewteen $10,000 and $19,999, before dropping below 50.0% at the $20,000-$24,999 bracket. There is a brief spike in success rates for campaigns with goals between $35,000 and $44,999 (66.7% success rate) before dropping once again. There were no play campaigns canceled within the dataset. 
 
 ### Challenges and Difficulties Encountered
 
