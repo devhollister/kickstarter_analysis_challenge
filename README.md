@@ -1,5 +1,5 @@
 
-# An Analysis of the Outcomes of Theater Kickstarter Campaigns in Relation to Launch Date and Goal Amount
+# An Analysis of Theater Kickstarter Campaign Outcomes in Relation to Launch Date and Goal Amount
 
 ## Overview of Project
 
